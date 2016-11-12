@@ -1,0 +1,2 @@
+Received frame 0successfully, sending ack
+{ 1  0  1  0  1  0  1  0  1  0 }

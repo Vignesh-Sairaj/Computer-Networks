@@ -1,0 +1,6 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2016-11-12T14:33:45.270Z,37.2630005,-121.6466675,3.2,2.16,md,38,61,0.02148,0.04,nc,nc72724155,2016-11-12T14:35:24.825Z,"14km N of Morgan Hill, California",earthquake,0.13,0.42,0.2,31,automatic,nc,nc
+2016-11-12T14:31:52.770Z,33.2246667,-116.7403333,10.64,0.66,ml,18,76,0.08206,0.15,ci,ci37738800,2016-11-12T14:35:24.913Z,"3km SE of Lake Henshaw, CA",earthquake,0.36,0.71,0.1,13,automatic,ci,ci
+2016-11-12T14:05:40.770Z,33.5065,-116.4756667,7.75,0.41,ml,12,97,0.04502,0.16,ci,ci37738792,2016-11-12T14:09:15.916Z,"19km ESE of Anza, CA",earthquake,0.47,0.75,0.118,9,automatic,ci,ci
+2016-11-12T14:01:22.070Z,34.0036667,-116.8096667,17.56,1.15,ml,30,73,0.03144,0.2,ci,ci37738784,2016-11-12T14:12:39.050Z,"10km NNW of Cabazon, CA",earthquake,0.33,0.68,0.18,26,automatic,ci,ci
+2016-11-12T13:58:34.810Z,33.928,-116.975,16.17,0.71,ml,17,114,0.1591,0.14,ci,ci37738640,2016-11-12T14:02:12.098Z,"0km SE of Beaumont, CA",earthquake,0.29,0.88,0.192,19,automatic,ci,ci

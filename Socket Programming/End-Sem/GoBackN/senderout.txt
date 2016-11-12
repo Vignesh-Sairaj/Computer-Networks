@@ -1,0 +1,7 @@
+Sending frame 0
+{ 1  0  1  0  1  0  1  0  1  0 }
+recvd ack
+
+
+Sending frame 0
+{ 1  0  1  0  1  0  1  0  1  0 }
